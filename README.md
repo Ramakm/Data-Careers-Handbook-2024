@@ -143,11 +143,11 @@ Most of the new comer have doubt on one thing that is:
  
  
 # How to contribute
-You can open an issue and give us your suggestions as to how we can improve this guide, or what we can do to improve the learning experience.
+You can open an issue and give us your suggestions as to how i can improve this guide, or what i can do to improve the learning experience.
 
-You can also fork this project and send a pull request to fix any mistakes that you have found.
+You can also fork this project and send a pull request to fix any mistakes that you have found or you wants to add anything to a particular folder. 
 
-If you want to suggest a new resource, send a pull request adding such resource to the extras section. The extras section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations.
+If you want to suggest a new resource, send a pull request adding such resource. The extras section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations.
 
 # Code of Conduct
 
