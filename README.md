@@ -162,5 +162,5 @@ You can also interact through GitHub issues.
 
 ### Follow me on:
 
-[Twitter](https://twitter.com/codewith_ram)
-[Kaggle](https://kaggle.com/ramakrushnamohapatra)
+- [Twitter](https://twitter.com/codewith_ram)
+- [Kaggle](https://kaggle.com/ramakrushnamohapatra)
