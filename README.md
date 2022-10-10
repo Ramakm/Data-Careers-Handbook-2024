@@ -20,7 +20,19 @@ Most of the new comer have doubt on one thing that is:
 | Automate tedious tasks and generate insights using machine learning models. |Spot trends and patterns from complex datasets.|
 |Build AI models using various algorithms and in-built libraries. | Create different reports with the help of charts and graphs using Excel and BI tools.|
 
+## RoadMap:
+1. Excel Learning
+2. Statastics
+3. Linear Algebra
+4. Calculus
+5. Python
+6. SQL
+7. Power BI
+8. Tableau
+9. EDA
+10. Deep Learning
 
+This is the way i approached my journey. if you feel and wants to follow any other path, its upto you.
 
 ### Core
 - [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
