@@ -2,7 +2,7 @@
 
 ![pexels-lukas-669610](https://user-images.githubusercontent.com/8182816/194755972-5d179d53-c2bb-432e-9867-c4cc6dfdca16.jpg)
 
-An awesome Data Science repository to learn and apply for real world problems. Kaggle Problems will be included here. Curated list of Python resources and programs.
+Its a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. Curated list of Python resources and programs.
 This is a space to keep the data and source code of the book contents up-to-date after writing data manipulation with Python. Because of the rapid flow of IT, you often encounter the following situations after writing a book. The internet site you want to analyze has changed. The latest version of the module has a syntax change
 So, this space will not simply disclose the data and source code covered by the book, but more actively keep the source code open for readers. However, if the site you want to analyze disappears or Exceptions are made when the module no longer supports version upgrades, etc.
 
