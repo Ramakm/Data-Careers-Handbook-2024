@@ -154,13 +154,17 @@ This is the way i approached my journey. if you feel and wants to follow any oth
     - [Reducing the size of a DataFrame](https://www.youtube.com/watch?v=wDYDYGyN_cw&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=21)
  
  
-# How to contribute
-You can open an issue and give us your suggestions as to how i can improve this guide, or what i can do to improve the learning experience.
+# How to contribute: (Instructions)
 
-You can also fork this project and send a pull request to fix any mistakes that you have found or you wants to add anything to a particular folder. 
-
-If you want to suggest a new resource, send a pull request adding such resource. The extras section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations.
-
+- Fork this Repository using the button at the top However, if you are interested in having contributions to this repo count toward Hacktoberfest we encourage you to take a look at this list of Hacktoberfest issues for inspiration and make the necessary changes to focus on enabling people to make meaningful contributions to open source projects.
+- Clone your forked repository to your pc ( `$ git clone "url from clone option"`)
+- Create a new branch for your modifications (ie. git branch new-user and check it out git checkout new-user and `git checkout -b new-user`)
+- Add your profile image in static/images/ ( use drag and drop option or upload by commands.)
+- Add your profile data in Contributor folder
+- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
+- `Create a pull request`
+- Star this repository
+- Follow me
 # Code of Conduct
 
 - Please dont use any foul language for anyone.
