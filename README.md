@@ -172,9 +172,10 @@ This is the way i approached my journey. if you feel and wants to follow any oth
 
 # Community
 
-We have a Discord server! This should be your first stop to talk with other learners. Why don't you introduce yourself right now?
+- We have a Discord server! This should be your first stop to talk with other learners. Why don't you introduce yourself right now?
 - [Discord link](https://discord.gg/gDmnRc5T)
-You can also interact through GitHub issues.
+- You can also interact through GitHub issues.
+
 
 ### Follow me on:
 
