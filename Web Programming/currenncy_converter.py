@@ -9,7 +9,7 @@ import requests
 
 URL_BASE = "https://www.amdoren.com/api/currency.php"
 TESTING = os.getenv("CI", False)
-API_KEY = os.getenv("AMDOREN_API_KEY", "")
+API_KEY = os.getenv("AMDOREN_API_KEY", "5eSjDRsHcRvzwziMb8PgyN2RkBgd5C")
 
 if not API_KEY and not TESTING:
     raise KeyError(
