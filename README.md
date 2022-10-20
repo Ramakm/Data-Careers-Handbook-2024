@@ -1,15 +1,12 @@
 # DataScience
 
-
-
-[Data Science](https://user-images.githubusercontent.com/8182816/196985912-4532c3a5-67be-4297-8fc1-34502f96ac31.mp4)
-
+![kindpng_4462349](https://user-images.githubusercontent.com/8182816/197010893-13d270c6-a8f4-457c-b1fe-04234e0cde03.png)
 
 
 It is a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. A curated list of Python resources and programs would also be included.
 This is a space to keep the data and source code of the book contents up-to-date after writing data manipulation with Python. Because of the rapid flow of IT, you often encounter the following situations after writing a book; the internet site you want to analyze has changed. The latest version of the module has a syntax change. So, this space will not simply disclose the data and source code covered by the book, but more actively keep the source code open for readers. However, if the site you want to analyze disappears or exceptions are made when the module no longer supports version upgrades, etc.
 
-What is Data Science?
+**What is Data Science?**<br>
 Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and predicting the future. 
 
 Most of the new comers have doubt on one thing that is:
