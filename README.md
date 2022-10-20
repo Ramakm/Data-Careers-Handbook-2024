@@ -1,6 +1,10 @@
 # DataScience
 
-![pexels-lukas-669610](https://user-images.githubusercontent.com/8182816/194755972-5d179d53-c2bb-432e-9867-c4cc6dfdca16.jpg)
+
+
+[Data Science](https://user-images.githubusercontent.com/8182816/196985912-4532c3a5-67be-4297-8fc1-34502f96ac31.mp4)
+
+
 
 Its a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. Curated list of Python resources and programs.
 This is a space to keep the data and source code of the book contents up-to-date after writing data manipulation with Python. Because of the rapid flow of IT, you often encounter the following situations after writing a book. The internet site you want to analyze has changed. The latest version of the module has a syntax change
