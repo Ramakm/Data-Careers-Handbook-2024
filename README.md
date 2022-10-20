@@ -6,7 +6,7 @@
 
 
 
-It is a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. A Curated list of Python resources and programs would also be included.
+It is a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. A curated list of Python resources and programs would also be included.
 This is a space to keep the data and source code of the book contents up-to-date after writing data manipulation with Python. Because of the rapid flow of IT, you often encounter the following situations after writing a book; the internet site you want to analyze has changed. The latest version of the module has a syntax change. So, this space will not simply disclose the data and source code covered by the book, but more actively keep the source code open for readers. However, if the site you want to analyze disappears or exceptions are made when the module no longer supports version upgrades, etc.
 
 What is Data Science?
