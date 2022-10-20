@@ -156,8 +156,9 @@ This is the way i approached my journey. if you feel and want to follow any othe
  
 # How to contribute: (Instructions)
 
-- Fork this Repository using the button at the top. However, if you are interested in having contributions to this repo count toward Hacktoberfest, we encourage you to take a look at this list of Hacktoberfest issues for inspiration and make the necessary changes to focus on enabling people to make meaningful contributions to open source projects.
-- Clone your forked repository to your pc ( `$ git clone "url from clone option"`)
+- Fork this Repository using the button at the top. However, if you are interested in having contributions to this repo count toward Data Science community, Please give it a star and change the required code or upload any new files.
+
+- Clone your forked repository to your pc ( `$ git clone "url from clone option of this repo"`)
 - Create a new branch for your modifications (ie. git branch new-user and check it out git checkout new-user and `git checkout -b new-user`)
 - Add your profile image in static/images/ ( use drag and drop option or upload by commands.)
 - Add your profile data in Contributor folder
@@ -178,6 +179,6 @@ This is the way i approached my journey. if you feel and want to follow any othe
 
 
 ### Follow me on:
-
+- [Github](https://github.com/Ramakm)
 - [Twitter](https://twitter.com/codewith_ram)
 - [Kaggle](https://kaggle.com/ramakrushnamohapatra)
