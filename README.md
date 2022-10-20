@@ -6,14 +6,13 @@
 
 
 
-Its a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. Curated list of Python resources and programs.
-This is a space to keep the data and source code of the book contents up-to-date after writing data manipulation with Python. Because of the rapid flow of IT, you often encounter the following situations after writing a book. The internet site you want to analyze has changed. The latest version of the module has a syntax change
-So, this space will not simply disclose the data and source code covered by the book, but more actively keep the source code open for readers. However, if the site you want to analyze disappears or Exceptions are made when the module no longer supports version upgrades, etc.
+It is a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. A Curated list of Python resources and programs would also be included.
+This is a space to keep the data and source code of the book contents up-to-date after writing data manipulation with Python. Because of the rapid flow of IT, you often encounter the following situations after writing a book; the internet site you want to analyze has changed. The latest version of the module has a syntax change. So, this space will not simply disclose the data and source code covered by the book, but more actively keep the source code open for readers. However, if the site you want to analyze disappears or exceptions are made when the module no longer supports version upgrades, etc.
 
 What is Data Science?
-Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. 
+Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and predicting the future. 
 
-Most of the new comer have doubt on one thing that is:
+Most of the new comers have doubt on one thing that is:
 
 ### What is the difference between Data Science and Data Analyst??
 
@@ -36,7 +35,7 @@ Most of the new comer have doubt on one thing that is:
 9. EDA
 10. Deep Learning
 
-This is the way i approached my journey. if you feel and wants to follow any other path, its upto you.
+This is the way i approached my journey. if you feel and want to follow any other path, its upto you.
 
 ### Core
 - [pandas](https://pandas.pydata.org/) - Data structures built on top of [numpy](https://www.numpy.org/).  
@@ -160,7 +159,7 @@ This is the way i approached my journey. if you feel and wants to follow any oth
  
 # How to contribute: (Instructions)
 
-- Fork this Repository using the button at the top However, if you are interested in having contributions to this repo count toward Hacktoberfest we encourage you to take a look at this list of Hacktoberfest issues for inspiration and make the necessary changes to focus on enabling people to make meaningful contributions to open source projects.
+- Fork this Repository using the button at the top. However, if you are interested in having contributions to this repo count toward Hacktoberfest, we encourage you to take a look at this list of Hacktoberfest issues for inspiration and make the necessary changes to focus on enabling people to make meaningful contributions to open source projects.
 - Clone your forked repository to your pc ( `$ git clone "url from clone option"`)
 - Create a new branch for your modifications (ie. git branch new-user and check it out git checkout new-user and `git checkout -b new-user`)
 - Add your profile image in static/images/ ( use drag and drop option or upload by commands.)
