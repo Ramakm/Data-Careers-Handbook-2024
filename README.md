@@ -177,8 +177,31 @@ This is the way i approached my journey. if you feel and want to follow any othe
 - [Discord link](https://discord.gg/gDmnRc5T)
 - You can also interact through GitHub issues.
 
+# 🔰 𝐓𝐨𝐩 𝟏𝟎 𝐟𝐫𝐞𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 𝐬𝐨𝐮𝐫𝐜𝐞𝐬 𝐟𝐨𝐫 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 & 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+
+🔶 𝐊𝐚𝐠𝐠𝐥𝐞 : https://www.kaggle.com/
+
+🔶 𝐆𝐢𝐭𝐡𝐮𝐛 : https://www.github.com/
+
+🔶 𝐖𝐨𝐫𝐥𝐝 𝐃𝐚𝐭𝐚 : https://lnkd.in/ggkvXru7
+
+🔶 𝐆𝐨𝐯. 𝐃𝐚𝐭𝐚 : https://catalog.data.gov/
+
+🔶 𝐕𝐢𝐬𝐮𝐚𝐥𝐃𝐚𝐭𝐚 : https://visualdata.io/
+
+🔶 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐏𝐮𝐛𝐥𝐢𝐜 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 : https://lnkd.in/gP5K63cG
+
+🔶 𝐆𝐨𝐨𝐠𝐥𝐞 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐒𝐞𝐚𝐫𝐜𝐡 : https://lnkd.in/gd39KBVQ
+
+🔶 𝐑𝐞𝐝𝐝𝐢𝐭 : https://lnkd.in/gfpfpGMF
+
+🔶 𝐐𝐮𝐚𝐧𝐝𝐥 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 : https://lnkd.in/guaQz6rn
+
+🔶 𝐔𝐂𝐈 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 : https://lnkd.in/gd39KBVQ
+
 
 ### Follow me on:
+- [LinkedIN](https://linkedin.com/ramakrushnamohapatra)
 - [Github](https://github.com/Ramakm)
 - [Twitter](https://twitter.com/codewith_ram)
 - [Kaggle](https://kaggle.com/ramakrushnamohapatra)
