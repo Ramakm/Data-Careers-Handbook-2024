@@ -1,6 +1,11 @@
-# DataScience
+# DataScience & Data Analytics & Data Engineer
 
 ![kindpng_4462349](https://user-images.githubusercontent.com/8182816/197010893-13d270c6-a8f4-457c-b1fe-04234e0cde03.png)
+
+In this repo you will find valuable resources to get you started in
+Data Analytics, Data Science, Data Engineering, Machine Learning and Computer Science.
+
+This is an open source effort. Please add any links you have found helpful with PR!
 
 
 It is a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. A curated list of Python resources and programs would also be included.
@@ -30,7 +35,8 @@ Most of the new comers have doubt on one thing that is:
 7. Power BI
 8. Tableau
 9. EDA
-10. Deep Learning
+10. Cloud (AWS/Azure)
+11. Deep Learning
 
 This is the way i approached my journey. if you feel and want to follow any other path, its upto you.
 
