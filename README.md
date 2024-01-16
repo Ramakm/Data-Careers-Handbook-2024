@@ -2,10 +2,10 @@
 
 ![kindpng_4462349](https://user-images.githubusercontent.com/8182816/197010893-13d270c6-a8f4-457c-b1fe-04234e0cde03.png)
 
-In this repo you will find valuable resources to get you started in
-Data Analytics, Data Science, Data Engineering, Machine Learning and Computer Science.
+### **In this repo you will find valuable resources to get you started in**<br>
+### **Data Analytics, Data Science, Data Engineering, Computer Science.**
 
-This is an open source effort. Please add any links you have found helpful with PR!
+### **This is an open source repo. Please try to contribute if you have valuable resources.**
 
 
 It is a Data Science repository to learn and solve projects and problems. Kaggle Problems will be included here. A curated list of Python resources and programs would also be included.
